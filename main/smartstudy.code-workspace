@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "smartstudy",
+			"path": "."
+		},
+		{
+			"name": "Login-registration-System-PHP-and-MYSQL-master",
+			"path": "../../../../../../xampp/htdocs/Login-registration-System-PHP-and-MYSQL-master"
+		},
+		{
+			"name": "upload pdf file using php",
+			"path": "../../../../../../xampp/htdocs/upload pdf file using php"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "smartstudy"
+	}
+}
